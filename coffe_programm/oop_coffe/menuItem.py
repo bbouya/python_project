@@ -5,3 +5,4 @@ class MenuItem:
         self.name = name 
         self.cost = cost 
         self.ingredients = ingredients
+
